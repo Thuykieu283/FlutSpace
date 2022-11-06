@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "896975406285",
+    "project_id": "firstapp-projex",
+    "storage_bucket": "firstapp-projex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896975406285:android:284e0c2f1d1b5ad6c11584",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896975406285-cbi19lrsgugl258m0mh8jl2em0oku7sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsm0ihz6YzMXFrOWB_2ZBHs0kYxgyagio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896975406285-cbi19lrsgugl258m0mh8jl2em0oku7sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896975406285-duputsdmqdc95cc1ndanqp8rb6g73eda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myveryfirstapp.firstapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896975406285:android:4fef7ec2f1402afdc11584",
+        "android_client_info": {
+          "package_name": "com.myveryfirstapp.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896975406285-cbi19lrsgugl258m0mh8jl2em0oku7sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsm0ihz6YzMXFrOWB_2ZBHs0kYxgyagio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896975406285-cbi19lrsgugl258m0mh8jl2em0oku7sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896975406285-duputsdmqdc95cc1ndanqp8rb6g73eda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myveryfirstapp.firstapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
